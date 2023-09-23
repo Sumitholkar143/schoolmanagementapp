@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638769396324",
+    "project_id": "school-managment-cf651",
+    "storage_bucket": "school-managment-cf651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638769396324:android:3d104ba469844a04bc7d71",
+        "android_client_info": {
+          "package_name": "com.sumit.schoolmanagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638769396324-1f04o758elh3lpit5smt0jjl62t3ht2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-T_yzSsEQv44R4jutTbBvMDJZJ-WnTz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638769396324-1f04o758elh3lpit5smt0jjl62t3ht2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
